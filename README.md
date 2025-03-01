@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 -->
-- 🔭 I’m currently major in communication engineering in Sun Yat-sen University in Guangdong, China
+- 🔭 I’m currently studying at Hogwarts School of Witchcraft and Wizardry
 - 🌱 I’m currently learning Unity game modding, signal processing...
 - 👯 I’m looking to collaborate on any interesting project
 - ⚡ Fun fact: A huge Kerbal Space Program fan
